@@ -1,0 +1,13 @@
+Une erreur E101 indique une température anormalement élevée détectée sur la machine.
+
+Lorsqu’une surchauffe est détectée, arrêter temporairement la machine afin d’éviter une dégradation des composants.
+
+Vérifier que les ventilateurs, circuits d’air et systèmes de refroidissement fonctionnent correctement.
+
+Contrôler ensuite le thermorégulateur ainsi que les capteurs de température.
+
+Un thermorégulateur défaillant peut provoquer une mauvaise régulation de la température.
+
+Vérifier également qu’aucun conduit de ventilation n’est obstrué.
+
+Si la température reste anormalement élevée après redémarrage, remplacer le composant défectueux ou faire intervenir un technicien de maintenance.

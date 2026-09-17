@@ -1,0 +1,201 @@
+incident_id,machine_id,machine_type,error_code,cause,resolution,severity,date,downtime_minutes,status
+INC001,RA002,Robot d'assemblage,E101,surchauffe,remplacement thermo-regulateur,High,2026-03-19,158,Open
+INC002,RA002,Robot d'assemblage,E103,défaut moteur,arrêt du système,Critical,2026-07-09,361,Closed
+INC003,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-02-05,45,In progress
+INC004,RA001,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-03-20,26,In progress
+INC005,CV003,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-01-18,10,Closed
+INC006,CV002,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-03-05,12,Closed
+INC007,CV001,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-02-12,215,Closed
+INC008,CV002,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-01-26,212,Closed
+INC009,PH001,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-05-11,175,Closed
+INC010,CV001,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-02-14,350,In progress
+INC011,RA001,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-08-16,6,Closed
+INC012,PH001,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-02-14,31,Closed
+INC013,PH003,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-02-20,197,Closed
+INC014,PH002,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-03-26,56,Open
+INC015,CV003,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-02-07,7,Closed
+INC016,PH001,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-02-12,76,Open
+INC017,PH002,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-04-02,70,Closed
+INC018,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-03-10,55,Closed
+INC019,PH001,Presse hydraulique,E101,surchauffe,remplacement thermo-regulateur,High,2026-06-27,173,Closed
+INC020,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-02-15,39,In progress
+INC021,RA002,Robot d'assemblage,E103,défaut moteur,remplacement du moteur,Critical,2026-03-08,191,Open
+INC022,CV003,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-03-12,16,Closed
+INC023,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-05-01,24,Closed
+INC024,CV001,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-03-23,29,Open
+INC025,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-05-12,23,Closed
+INC026,FI001,Four industriel,E101,surchauffe,arrêt temporaire de la machine,High,2026-02-13,88,Closed
+INC027,RA001,Robot d'assemblage,E101,surchauffe,remplacement thermo-regulateur,High,2026-07-25,103,Closed
+INC028,FI001,Four industriel,E101,surchauffe,remplacement thermo-regulateur,High,2026-02-18,65,Open
+INC029,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-07-02,64,In progress
+INC030,RA002,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-07-29,13,Closed
+INC031,PH002,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-06-09,155,Closed
+INC032,PH002,Presse hydraulique,E103,défaut moteur,contrôle de l'alimentation moteur,Critical,2026-07-01,126,Closed
+INC033,CV001,Convoyeur,E103,défaut moteur,arrêt du système,Critical,2026-04-10,465,Closed
+INC034,RA002,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-06-30,30,Closed
+INC035,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-03-17,48,In progress
+INC036,PH002,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-08-25,141,In progress
+INC037,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-07-26,19,Open
+INC038,RA003,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-05-02,12,Open
+INC039,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-07-01,20,Closed
+INC040,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-06-07,22,Open
+INC041,RA003,Robot d'assemblage,E101,surchauffe,arrêt temporaire de la machine,High,2026-08-19,68,Open
+INC042,PH002,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-07-16,429,Closed
+INC043,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-06-15,67,Closed
+INC044,CV001,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-07-24,8,Closed
+INC045,PH001,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-07-03,80,In progress
+INC046,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-05-12,6,In progress
+INC047,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-02-06,23,Closed
+INC048,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-06-03,8,Closed
+INC049,RA002,Robot d'assemblage,E103,défaut moteur,contrôle de l'alimentation moteur,Critical,2026-01-22,352,Closed
+INC050,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-02-06,28,In progress
+INC051,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-02-22,27,Closed
+INC052,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-04-18,28,Closed
+INC053,CV002,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-08-27,9,In progress
+INC054,PH002,Presse hydraulique,E101,surchauffe,remplacement thermo-regulateur,High,2026-03-27,61,In progress
+INC055,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-06-09,44,In progress
+INC056,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-02-12,22,Closed
+INC057,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-06-04,75,In progress
+INC058,PH002,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-05-11,61,In progress
+INC059,RA003,Robot d'assemblage,E101,surchauffe,arrêt temporaire de la machine,High,2026-02-22,141,Closed
+INC060,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-06-22,77,Closed
+INC061,RA003,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-02-20,19,In progress
+INC062,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-05-29,20,Closed
+INC063,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-06-17,45,Closed
+INC064,RA002,Robot d'assemblage,E103,défaut moteur,remplacement du moteur,Critical,2026-07-15,301,Closed
+INC065,PH002,Presse hydraulique,E101,surchauffe,remplacement thermo-regulateur,High,2026-06-08,173,Closed
+INC066,FI002,Four industriel,E101,surchauffe,remplacement thermo-regulateur,High,2026-03-16,141,In progress
+INC067,PH002,Presse hydraulique,E101,surchauffe,arrêt temporaire de la machine,High,2026-04-02,168,Closed
+INC068,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-01-14,25,Closed
+INC069,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-08-21,25,Closed
+INC070,PH001,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-05-09,98,Closed
+INC071,PH003,Presse hydraulique,E101,surchauffe,arrêt temporaire de la machine,High,2026-07-12,89,Closed
+INC072,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-03-20,24,In progress
+INC073,CV002,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-04-01,389,Closed
+INC074,CV003,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-03-03,7,Closed
+INC075,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-04-11,26,Closed
+INC076,PH002,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-01-12,90,Closed
+INC077,PH001,Presse hydraulique,E101,surchauffe,remplacement thermo-regulateur,High,2026-05-29,162,Closed
+INC078,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-07-24,88,Closed
+INC079,CV002,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-01-29,334,Closed
+INC080,PH002,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-04-16,85,In progress
+INC081,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-01-13,39,Closed
+INC082,RA002,Robot d'assemblage,E101,surchauffe,arrêt temporaire de la machine,High,2026-02-02,122,In progress
+INC083,PH002,Presse hydraulique,E103,défaut moteur,remplacement du moteur,Critical,2026-08-27,269,Closed
+INC084,RA001,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-02-28,7,Closed
+INC085,RA003,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-03-10,17,Closed
+INC086,PH003,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-03-12,420,Open
+INC087,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-06-10,26,Closed
+INC088,PH002,Presse hydraulique,E101,surchauffe,arrêt temporaire de la machine,High,2026-03-10,155,Closed
+INC089,FI002,Four industriel,E101,surchauffe,contrôle du système de refroidissement,High,2026-06-29,139,In progress
+INC090,RA001,Robot d'assemblage,E101,surchauffe,contrôle du système de refroidissement,High,2026-08-08,124,In progress
+INC091,CV002,Convoyeur,E103,défaut moteur,arrêt du système,Critical,2026-03-16,476,Closed
+INC092,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-05-15,28,Closed
+INC093,RA001,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-02-04,11,Closed
+INC094,FI002,Four industriel,E101,surchauffe,contrôle du système de refroidissement,High,2026-01-31,77,In progress
+INC095,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-03-12,9,In progress
+INC096,PH003,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-01-31,180,Closed
+INC097,CV003,Convoyeur,E103,défaut moteur,contrôle de l'alimentation moteur,Critical,2026-08-14,166,Closed
+INC098,PH003,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-07-03,110,Closed
+INC099,CV003,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-08-26,10,Open
+INC100,CV002,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-01-11,355,Closed
+INC101,PH002,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-06-25,20,Closed
+INC102,PH002,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-05-21,32,Closed
+INC103,RA001,Robot d'assemblage,E101,surchauffe,arrêt temporaire de la machine,High,2026-05-13,180,Closed
+INC104,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-04-02,28,Closed
+INC105,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-04-17,29,Closed
+INC106,RA003,Robot d'assemblage,E101,surchauffe,remplacement thermo-regulateur,High,2026-02-20,143,Closed
+INC107,CV002,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-02-01,164,Closed
+INC108,RA003,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-05-08,10,Closed
+INC109,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-06-04,13,In progress
+INC110,CV002,Convoyeur,E103,défaut moteur,contrôle de l'alimentation moteur,Critical,2026-01-25,144,Open
+INC111,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-03-27,76,Closed
+INC112,PH002,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-02-23,36,Closed
+INC113,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-01-01,26,Closed
+INC114,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-01-15,23,In progress
+INC115,PH001,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-04-02,70,Closed
+INC116,RA001,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-05-18,5,In progress
+INC117,CV003,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-01-30,7,Closed
+INC118,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-08-15,17,Closed
+INC119,CV001,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-07-24,16,Open
+INC120,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-03-14,40,Closed
+INC121,PH002,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-01-09,27,Closed
+INC122,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-01-08,18,In progress
+INC123,PH001,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-02-09,213,Closed
+INC124,RA001,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-06-21,16,Closed
+INC125,RA002,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-03-27,19,Closed
+INC126,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-01-07,22,In progress
+INC127,RA001,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-01-12,23,Closed
+INC128,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-05-28,9,Closed
+INC129,RA001,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-08-12,21,Closed
+INC130,RA003,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-01-21,24,Closed
+INC131,FI001,Four industriel,E101,surchauffe,arrêt temporaire de la machine,High,2026-01-18,171,In progress
+INC132,RA003,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-03-10,14,Closed
+INC133,PH001,Presse hydraulique,E101,surchauffe,contrôle du système de refroidissement,High,2026-07-24,61,Closed
+INC134,CV003,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-01-15,27,Open
+INC135,PH001,Presse hydraulique,E102,pression insuffisante,réglage de la pression,Medium,2026-01-29,35,Closed
+INC136,RA003,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-03-25,20,Closed
+INC137,PH001,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-03-03,85,Closed
+INC138,RA003,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-08-11,13,Closed
+INC139,CV002,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-08-17,15,Closed
+INC140,RA003,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-02-08,29,Closed
+INC141,PH001,Presse hydraulique,E101,surchauffe,remplacement thermo-regulateur,High,2026-08-10,85,Closed
+INC142,RA001,Robot d'assemblage,E103,défaut moteur,arrêt du système,Critical,2026-01-17,219,Closed
+INC143,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-01-22,19,Closed
+INC144,PH001,Presse hydraulique,E101,surchauffe,arrêt temporaire de la machine,High,2026-04-04,113,Open
+INC145,PH001,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-08-17,29,Closed
+INC146,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-02-02,9,In progress
+INC147,RA002,Robot d'assemblage,E101,surchauffe,arrêt temporaire de la machine,High,2026-03-29,110,Closed
+INC148,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-08-02,12,Closed
+INC149,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-01-14,15,Closed
+INC150,PH001,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-02-10,62,Closed
+INC151,FI002,Four industriel,E101,surchauffe,arrêt temporaire de la machine,High,2026-01-25,92,Open
+INC152,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-07-04,12,Closed
+INC153,FI001,Four industriel,E101,surchauffe,remplacement thermo-regulateur,High,2026-02-21,150,Closed
+INC154,CV001,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-07-13,20,Closed
+INC155,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-02-13,12,Closed
+INC156,PH002,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-08-18,53,In progress
+INC157,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-03-20,11,In progress
+INC158,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-02-13,28,Closed
+INC159,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-04-15,73,Closed
+INC160,RA002,Robot d'assemblage,E101,surchauffe,contrôle du système de refroidissement,High,2026-08-18,173,Closed
+INC161,CV001,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-06-18,12,Closed
+INC162,CV002,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-06-09,20,Open
+INC163,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-02-19,15,Closed
+INC164,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-08-11,66,Closed
+INC165,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-03-05,25,Open
+INC166,RA002,Robot d'assemblage,E103,défaut moteur,remplacement du moteur,Critical,2026-01-30,140,Closed
+INC167,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-01-30,25,Closed
+INC168,CV003,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-03-26,122,Closed
+INC169,PH001,Presse hydraulique,E103,défaut moteur,remplacement du moteur,Critical,2026-03-06,356,Closed
+INC170,FI001,Four industriel,E101,surchauffe,remplacement thermo-regulateur,High,2026-05-17,168,Open
+INC171,CV002,Convoyeur,E103,défaut moteur,contrôle de l'alimentation moteur,Critical,2026-03-20,425,Closed
+INC172,CV001,Convoyeur,E103,défaut moteur,remplacement du moteur,Critical,2026-05-26,212,Closed
+INC173,CV002,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-02-04,14,In progress
+INC174,CV001,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-03-30,27,In progress
+INC175,CV002,Convoyeur,E105,problème réseau,intervention du support réseau,Low,2026-04-28,15,Closed
+INC176,FI002,Four industriel,E101,surchauffe,arrêt temporaire de la machine,High,2026-01-19,88,Closed
+INC177,FI001,Four industriel,E101,surchauffe,contrôle du système de refroidissement,High,2026-07-18,126,Closed
+INC178,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-01-06,6,Closed
+INC179,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-08-21,9,Closed
+INC180,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-07-09,46,Closed
+INC181,CV003,Convoyeur,E105,problème réseau,vérification du câble réseau,Low,2026-03-28,26,Closed
+INC182,RA003,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-06-16,12,Closed
+INC183,RA003,Robot d'assemblage,E101,surchauffe,contrôle du système de refroidissement,High,2026-04-20,111,Closed
+INC184,RA001,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-04-10,13,Closed
+INC185,PH003,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-05-05,299,Closed
+INC186,CV001,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-02-14,13,Closed
+INC187,RA001,Robot d'assemblage,E101,surchauffe,contrôle du système de refroidissement,High,2026-01-15,150,In progress
+INC188,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-05-24,50,Closed
+INC189,PH003,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-02-11,42,Closed
+INC190,PH003,Presse hydraulique,E102,pression insuffisante,contrôle de la presse,Medium,2026-01-22,88,In progress
+INC191,PH003,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-07-31,162,Closed
+INC192,CV003,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-04-25,17,Closed
+INC193,RA002,Robot d'assemblage,E104,capteur de position,contrôle du câblage,Low,2026-07-05,27,Closed
+INC194,PH001,Presse hydraulique,E102,pression insuffisante,réinitialisation du système hydraulique,Medium,2026-08-14,84,Closed
+INC195,CV002,Convoyeur,E105,problème réseau,redémarrage du routeur,Low,2026-01-17,17,In progress
+INC196,RA001,Robot d'assemblage,E101,surchauffe,remplacement thermo-regulateur,High,2026-05-19,118,Closed
+INC197,RA003,Robot d'assemblage,E104,capteur de position,recalibrage du capteur,Low,2026-05-22,17,Closed
+INC198,RA001,Robot d'assemblage,E104,capteur de position,remplacement du capteur,Low,2026-04-24,7,Closed
+INC199,PH001,Presse hydraulique,E103,défaut moteur,arrêt du système,Critical,2026-06-23,406,In progress
+INC200,RA002,Robot d'assemblage,E103,défaut moteur,remplacement du moteur,Critical,2026-01-30,408,In progress

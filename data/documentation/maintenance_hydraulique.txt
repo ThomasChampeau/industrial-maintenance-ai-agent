@@ -1,0 +1,17 @@
+Une erreur E102 indique une pression hydraulique insuffisante sur la presse.
+
+Commencer par vérifier la pression affichée sur le manomètre et la comparer à la valeur nominale définie pour la machine.
+
+Contrôler ensuite le niveau de fluide hydraulique dans le réservoir. Un niveau trop faible peut entraîner une chute de pression et un fonctionnement irrégulier.
+
+Inspecter les flexibles, raccords et joints afin de détecter une éventuelle fuite.
+
+Vérifier également que la pompe hydraulique fonctionne correctement et qu’aucun bruit anormal n’est présent.
+
+Si la pression reste insuffisante, procéder à un réglage de la pression selon la procédure constructeur.
+
+Une réinitialisation du système hydraulique peut être réalisée si aucun défaut mécanique n’est identifié.
+
+Contrôler enfin l’état des filtres hydrauliques. Un filtre encrassé peut limiter la circulation du fluide et réduire la pression disponible.
+
+Si le problème persiste après ces vérifications, arrêter la presse et faire intervenir un technicien de maintenance.

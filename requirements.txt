@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+scikit-learn
+sentence-transformers
+mistralai
+python-dotenv

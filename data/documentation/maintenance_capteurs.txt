@@ -1,0 +1,9 @@
+Les capteurs de position sont utilisés sur les robots d'assemblage pour déterminer précisément la position des axes.
+
+Lorsqu'une erreur E104 apparaît, vérifier en priorité le calibrage du capteur.
+
+Si le recalibrage ne résout pas le problème, contrôler le câblage et les connecteurs.
+
+Un câble endommagé ou mal connecté peut provoquer des mesures intermittentes.
+
+En dernier recours, remplacer le capteur de position.

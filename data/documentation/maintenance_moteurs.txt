@@ -1,0 +1,15 @@
+Le moteur assure l’entraînement du convoyeur et permet le déplacement régulier de la chaîne de transport.
+
+Lorsqu’une erreur E103 apparaît, vérifier d’abord si le moteur démarre correctement et si aucun bruit anormal n’est présent.
+
+Contrôler l’alimentation électrique du moteur ainsi que les connexions.
+
+Vérifier ensuite l’état de la chaîne de transmission, sa tension et son alignement.
+
+Si nécessaire, procéder au graissage de la chaîne ou à son remplacement lorsqu’elle présente une usure importante.
+
+Un blocage mécanique de la transmission peut provoquer une surcharge ou l’arrêt du moteur.
+
+Si le défaut persiste après contrôle de l’alimentation et de la transmission, arrêter le système et faire contrôler le moteur.
+
+En cas de dysfonctionnements répétés ou de panne confirmée, remplacer le moteur et, si nécessaire, les éléments défectueux du système de transmission.

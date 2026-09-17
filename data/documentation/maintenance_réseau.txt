@@ -1,0 +1,13 @@
+Les équipements industriels connectés utilisent le réseau pour communiquer avec les systèmes de supervision, les automates et les autres machines.
+
+Lorsqu’une erreur E105 apparaît, vérifier en priorité l’état du câble réseau et des connecteurs.
+
+Un câble débranché, endommagé ou mal inséré peut provoquer une perte de communication intermittente.
+
+Vérifier ensuite que les voyants du port réseau sont actifs et que la machine est correctement détectée sur le réseau.
+
+Si la connexion physique semble correcte, redémarrer le routeur ou l’équipement réseau concerné.
+
+Contrôler également l’adresse IP de la machine ainsi que les éventuels conflits d’adressage.
+
+Si le problème persiste, transmettre l’incident au support réseau pour une vérification plus approfondie.
